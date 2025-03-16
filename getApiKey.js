@@ -6,9 +6,9 @@ const apiEndpoint = 'https://service.officestation.jp/5w7a87/GET_API_KEY'; // �
 
 // リクエストデータ
 const requestData = {
-    uid: '5wcsewsdg4', 
-    upw: 'fqn33Pzz',   
-    eml: 'k-tokura@nkr-group.com' 
+    uid: 'ユーザーid', 
+    upw: 'ユーザーpassword',   
+    eml: 'ユーザーemail' 
 };
 
 // APIコール
