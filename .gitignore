@@ -1,0 +1,4 @@
+*.csv
+test.js
+.DS_Store
+config/kintone_app_config.json
